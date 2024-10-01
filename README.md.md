@@ -38,6 +38,17 @@ Apos a criação, iniciamos o dashboard:
 
 ''streamlit run dashboard.py''
 
+##Print de tela
+
+Pasta - PRINT DE TELA
+
+Grafico 1
+Leituras de Temperatura
+Grafico 2
+Média de Temperatura por Dispositivo
+Grafico 3
+Leituras por Hora do Dia
+Temperaturas Máximas e Mínimas por Dia
 ______________________________//__________________________________
 
 Views SQL
